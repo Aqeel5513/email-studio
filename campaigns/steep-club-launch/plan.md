@@ -176,7 +176,7 @@ The budget is small and the campaign is email only, so most of the cost is time,
 
 | Item | Type | Notes |
 |---|---|---|
-| Writing and checking 9 emails plus the welcome email | Production (time) | The largest cost. Reuse one structure across versions |
+| Writing and checking 8 emails (10 versions, counting email 01's three) plus the welcome email | Production (time) | The largest cost. Reuse one structure across versions |
 | Brewing card and printable gift card | Production (time, maybe a small print or design cost) | Can be simple, made in-house |
 | Join page updates | Production (time) | Uses the existing shop |
 | Email sending | Distribution | Free or low cost at 2,000 contacts |
