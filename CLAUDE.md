@@ -19,6 +19,10 @@ This studio plans and writes email campaigns for a small business. The sample bu
 - Never send email to real people.
 - Ask me before deleting anything.
 
+### Brand voice
+
+@brand/voice.md
+
 ## What this is
 
 An email marketing studio built by following the Email Studio Lab course (FDE-102). `ASSIGNMENT.md` is the source of truth: 15 steps with exact build and check prompts. Read the current step there before starting it, and use its prompts as written.
