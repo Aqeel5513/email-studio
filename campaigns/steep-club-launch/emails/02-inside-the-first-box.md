@@ -13,7 +13,7 @@ We thought you might like to see what's inside a Steep Club box before you decid
 
 We put the box together slowly and carefully, and we hope you'll open it the same way. Make a cup, try something new, and see what you like.
 
-You can see this month's teas on the club page:
+You can see the teas in the first box on the club page:
 
 [See what's in the box](https://kettlebird.example/steep-club)
 

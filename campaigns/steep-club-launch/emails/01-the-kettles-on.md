@@ -9,9 +9,9 @@ Here's how it works. Once a month, a box of teas arrives at your door. Some you 
 
 Every box also has a simple brewing card: how much tea, how hot the water, and how long to steep. You don't need to be an expert. You only need a kettle and a few quiet minutes.
 
-And if you're thinking of someone else, a Steep Club box makes a gift that keeps arriving, month after month.
+And if you're thinking of someone else, you can give The Steep Club as a gift too. The club page explains how.
 
-You can see what's in the box and join here:
+You can see what's in the box, and join if it feels right:
 
 [Take a look at The Steep Club](https://kettlebird.example/steep-club)
 

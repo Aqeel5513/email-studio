@@ -1,11 +1,11 @@
 Subject: Slow down this week
-Preview: A quiet note for the days between the holidays. Put the kettle on.
+Preview: A quiet note for the last days of the year. Make a cup and take a minute.
 
 Hi {{first_name}},
 
-The days between the holidays can feel a little strange. The busy days are done, the new year hasn't quite started, and there's often time to just sit.
+The last few days of the year can feel a little different. Things go quiet, the new year hasn't quite started, and there's often time to just sit.
 
-So here's a small idea. Put the kettle on. Pick a tea, any tea, and let it steep a minute longer than usual. Hold the cup, notice how it smells, and take a slow sip.
+So here's a small idea. Put the kettle on. Pick a tea you love and steep it just the way you like it. Hold the cup, notice how it smells, and take a slow sip.
 
 That's the feeling we hope The Steep Club brings once a month: a few quiet minutes, and something new to taste.
 
